@@ -1521,8 +1521,15 @@
     flex-direction: column;
     width: 1109px;
     height: 233px;
+<<<<<<< HEAD
     overflow: hidden;
     margin: 150px auto 0;
+=======
+    margin-top: 150px;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+>>>>>>> a8faef0b4e3081e500cb35c4ab901ae6358e311e
 }
 .footer-container{
     display: flex;
